@@ -1,0 +1,17 @@
+.loginWrap button {
+  font-size: 10px;
+  margin-right: 8px;
+}
+#basic {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.rememberWrap {
+  width: 360px;
+  display: flex;
+}
+.remember {
+  width: 160px;
+  margin-right: 28px;
+}

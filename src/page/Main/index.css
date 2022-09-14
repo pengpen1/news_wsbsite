@@ -1,0 +1,30 @@
+.layout_wrap {
+  width: 100%;
+}
+.layout_header {
+  background-color: #fff;
+  border-bottom: 1px solid black;
+  height: auto;
+}
+.layout_content {
+  min-height: 420px;
+  padding: 8px;
+}
+.layout_footer {
+  border-top: 1px solid black;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-around;
+  background-color: rgb(0, 0, 0);
+  height: 30px;
+  padding: 0px;
+  margin: 0px;
+  color: #fff;
+}
+.layout_footer p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 22px;
+  width: auto;
+}

@@ -1,0 +1,18 @@
+.header_wrap {
+  display: flex;
+  justify-content: space-between;
+}
+.header_logo {
+  width: 60px;
+  object-fit: contain;
+}
+.header_Menu {
+  border: none;
+  margin-bottom: 8px;
+  font-size: 12px;
+}
+
+/* 重新antd组件样式 */
+.ant-layout-header {
+  padding: 0 28px;
+}
